@@ -2,7 +2,6 @@ from datetime import datetime, timedelta
 import pandas as pd
 import yfinance as yf
 import mplfinance as mpf
-from datetime import datetime, timedelta
 
 ticker_symbol = 'AAPL'
 
